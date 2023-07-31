@@ -1,3 +1,3 @@
-module github.com/VincentQDo/utils
+module github.com/VincentQDo/goutils
 
 go 1.20
